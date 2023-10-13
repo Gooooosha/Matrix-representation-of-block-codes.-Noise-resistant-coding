@@ -1,7 +1,7 @@
 # Matrix-representation-of-block-codes.-Noise-resistant-coding
 Noise-resistant coding with a graphical pyqt interface. With the possibility of entering a matrix G or H, encoding and decoding text, with the introduction of a random error.
 
-##Encoding 
+## Encoding 
 
 The algorithm starts by determining whether the input matrix belongs to H 
 or G 
@@ -46,7 +46,7 @@ If the first block = 001 it becomes 0011011
 In each block we add errors, number = t. 
 In this case we inverted the characters from the beginning with length t = 1.
 
-##Decoding 
+## Decoding 
 
 We use the already transposed systematic matrix HsysT
 Read its dimensions
@@ -78,8 +78,6 @@ We refer to the data about adding zeros to the last block. All
 added zeros we must remove and then we will get the binary form 
 of the source text.
 
-![img]()
+![img](https://github.com/Gooooosha/Matrix-representation-of-block-codes.-Noise-resistant-coding/blob/main/img_for_readme/1.png)
 
-![img]()
-
-![img]()
+![img](https://github.com/Gooooosha/Matrix-representation-of-block-codes.-Noise-resistant-coding/blob/main/img_for_readme/2.png)
