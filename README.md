@@ -80,10 +80,4 @@ of the source text.
 
 ![img](https://github.com/Gooooosha/Matrix-representation-of-block-codes.-Noise-resistant-coding/blob/main/img_for_readme/1.png)
 
-
-<br><br><br><br><br><br><br>
-
-
-
-
 ![img](https://github.com/Gooooosha/Matrix-representation-of-block-codes.-Noise-resistant-coding/blob/main/img_for_readme/2.png)
